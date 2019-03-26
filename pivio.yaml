@@ -7,7 +7,7 @@ vcsroot: "https://travis-ci.org/ianhigginbottom/appstash-service-dataloader/"
 lifecycle: production
 tags:
   - PIVIO
-  - Java10
+  - Java9
   - NoPersistence
 links:
   buildchain: "https://travis-ci.org/ianhigginbottom/appstash-service-dataloader/"
